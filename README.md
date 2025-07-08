@@ -24,35 +24,40 @@ I’m currently expanding my knowledge in:
 
 ---
 
-### 🧰 Libraries & Tools
-- NumPy
-- SciPy
-- Tkinter
-- Matplotlib
-- pyQT5
-- AutoCAD
--  Fusion360
+### 🧰 Libraries & Tools  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-%230078D4.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23D62728.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pyQT5-%2341CD52.svg?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-%23C52C1F.svg?style=flat&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion360-%23F7931E.svg?style=flat&logo=autodesk&logoColor=white" />
+</p>
 
 ---
 
-### ⚡ Embedded Systems & Electronics
-- Arduino
--  Raspberry Pi  
-- Hardware Prototyping
-- Circuit Design  
-- Soldering
-- Troubleshooting
+### ⚡ Embedded Systems & Electronics  
+<p>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prototyping-%23FF6F00.svg?style=flat&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Circuit%20Design-%2300BFA6.svg?style=flat&logo=electric&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soldering-%23FF9800.svg?style=flat&logo=tools&logoColor=white" />
+  <img src="https://img.shields.io/badge/Troubleshooting-%234CAF50.svg?style=flat&logo=wrench&logoColor=white" />
+</p>
 
 ---
 
-### 🔬 Experimental & Research Tools
-- Van de Graaff Proton Accelerator  
-- Optical 3D Profiler
-- Oscilloscopes  
-- Thin Film Evaporator
-- Function Generator
+### 🔬 Experimental & Research Tools  
+<p>
+  <img src="https://img.shields.io/badge/Van%20de%20Graaff%20Accelerator-%236D4C41.svg?style=flat&logo=scientific&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optical%203D%20Profiler-%230070C0.svg?style=flat&logo=researchgate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oscilloscope-%234E9A06.svg?style=flat&logo=waveform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thin%20Film%20Evaporator-%23B71C1C.svg?style=flat&logo=thermometer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Function%20Generator-%239C27B0.svg?style=flat&logo=frequency&logoColor=white" />
+</p>
 
----
 
 
 ### 📫 Let’s Connect!
