@@ -28,6 +28,10 @@ I’m currently expanding my knowledge in:
 <p>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white" />
    <br>
   <img src="https://img.shields.io/badge/Tkinter-%230078D4.svg?style=flat&logo=python&logoColor=white" />
