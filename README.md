@@ -31,8 +31,6 @@ I'm currently expanding my knowledge in:
 
 - **SUSY Signal Classification** — binary classifier discriminating supersymmetric signal from Standard Model background on 50K simulated LHC collision events, benchmarking a StackingClassifier (Logistic Regression, XGBoost, Random Forest) against a custom feedforward neural network — up to **0.8732 ROC-AUC**, 80.0% accuracy.
 
-- **AgroMesh** — a 7-in-1 soil analysis device delivering real-time NPK, pH, and moisture insights to farmers, backed by a data pipeline feeding AI-powered mobile/web recommendations.
-
 ---
 
 ### 🎓 Education
