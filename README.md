@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a **Physics major** at Gettysburg College (Class of 2027, 4.0 GPA, Sigma Pi Sigma) working at the intersection of **experimental particle physics**, **data analysis**, and **embedded systems engineering**.
+I'm a **Physics major** at Gettysburg College working at the intersection of **experimental particle physics**, **data analysis**, and **embedded systems**.
 
 Currently, I'm a **CMS Research Intern at Fermi National Accelerator Laboratory**, searching for long-lived particles in Run 3 data using the Muon Detector Shower signature. Outside of high-energy physics, I build hardware — from soil-sensing devices for farmers to assistive tech for the visually impaired.
 
